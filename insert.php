@@ -1,5 +1,5 @@
 <?php
-//insert.php
+//usudhuhinsert.php
 if(isset($_POST["subject"]))
 {
  include("connect.php");
